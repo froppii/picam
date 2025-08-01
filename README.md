@@ -1,5 +1,5 @@
 # picam
-a camera made with the raspberry pi hq cam, includes a custom firmware + case
+a camera made with the raspberry pi hq cam, includes a custom firmware + case. made as a personal project and overall just for fun, i want to get into photography and videography aswell and thought that this would be a great way to start and motivate myself
 
 ## CAD
 

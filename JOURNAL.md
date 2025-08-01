@@ -19,7 +19,8 @@ coded some simple firmware :3
 #
 **30 July - more progress on case**
 
-Adjusting the buttons etc
+Adjusting the camera positions etc
+
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/e71c75ace23869d38cd907b04dd575a3712d1f46_screenshot_2025-07-30_10.20.17_pm.png" width="500">
 
 **Time spent: 5 hours**
